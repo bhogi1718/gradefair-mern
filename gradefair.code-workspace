@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../../Program Files/Apache Software Foundation/Tomcat 11.0/webapps/StudentApp"
+		},
+		{
+			"path": "../../Job-Board-Portal-main"
+		},
+		{
+			"path": "../../dnn-project"
+		}
+	],
+	"settings": {
+		"postman.settings.dotenv-detection-notification-visibility": false
+	}
+}
